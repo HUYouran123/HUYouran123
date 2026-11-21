@@ -18,7 +18,7 @@
 ## 👥 协作伙伴
 
 - 👤 **@FirgtZhong** — 域名提供与稳定性保障
-- 👤 **@Ibuki_fuko** — 技术支持，不定时维护
+- 👤 **@ibukifuuko-arch** — 技术支持，不定时维护
 
 主站源码仓库：[FirgtZhong/mcpenav](https://github.com/FirgtZhong/mcpenav)
 
