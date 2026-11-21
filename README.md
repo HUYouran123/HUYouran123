@@ -34,7 +34,7 @@
 
 ## 🏷️ 技能标签
 
-`Minecraft PE` `MCPE 0.14` `PHP` `HTML` `Cloudflare Pages` `服务器收录` `开源维护` `前端` `服务器`
+`Minecraft PE` `MCPE 0.14` `PHP` `HTML` `JAVA` `服务器收录` `开源维护` `前端` 
 
 ---
 
