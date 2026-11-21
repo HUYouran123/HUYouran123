@@ -16,7 +16,7 @@
 | 📋 收录 | [mc.mcpenav.top](https://mc.mcpenav.top/) | MCPEMAP，人工审核、免费；列表与在线数据以本站为准 |
 | 📖 资料 | [pm.mcpenav.top](https://pm.mcpenav.top/) | 版本协议矩阵、核心对照、配置与排错 |
 
-:mag: **找服** → `mc.` ｜ **下客户端** → 主站 ｜ **自己开服** → `pm.`
+:mag: **找服** → [mc.mcpenav.top](https://mc.mcpenav.top/) ｜ **下客户端** → [mcpenav.top](https://mcpenav.top/)  ｜ **自己开服** → [pm.mcpenav.top](https://pm.mcpenav.top/) 
 
 ---
 
