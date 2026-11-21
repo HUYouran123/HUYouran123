@@ -22,7 +22,7 @@
 
 ## :package: 仓库 · :busts_in_silhouette: 协作
 
-[`FirgtZhong/mcpenav`](https://github.com/FirgtZhong/mcpenav)（四语 README）· [`pm014/0.14-portable-cores`](https://github.com/pm014/0.14-portable-cores) · [`wz 个人页`](https://huyouran123.github.io/wz/)
+[`FirgtZhong/mcpenav`](https://github.com/FirgtZhong/mcpenav)（四语 README）· [`xyc-launcher/Launcher`](https://github.com/xyc-launcher/Launcher) · [`HUYouran 个人网站`](https://huyouran123.github.io/wz/)
 
 <img src="https://github.com/FirgtZhong.png" width="16" align="top"> [@FirgtZhong](https://github.com/FirgtZhong) 域名与稳定性 ｜ <img src="https://github.com/ibukifuuko-arch.png" width="16" align="top"> [@ibukifuuko-arch](https://github.com/ibukifuuko-arch) 技术支持
 
